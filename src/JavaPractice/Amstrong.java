@@ -1,3 +1,5 @@
+package JavaPractice;
+
 public class Amstrong {
     static int digitcount(int n){
         int c=0;
