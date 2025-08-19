@@ -17,7 +17,7 @@ public class Amstrong {
         return product;
     }
     public static void main(String[] args) {
-        int n= 1907, temp = n;
+        int n= 1634, temp = n;
         int ex=digitcount(n);
         int rem=0,sum=0;
 
